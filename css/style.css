@@ -1,0 +1,8 @@
+body {
+    margin: 0 auto;
+    font-family: sans-serif;
+    line-height: 1.4;
+    color: #eeeeee;
+    background-color: #20232c;
+    max-width: 65em;
+}
