@@ -4,5 +4,6 @@ elm-stuff
 repl-temp-*
 
 # elm compiled files
-# (this is a pure elm project, so we won't track js files)
-*.js
+bin/
+
+posts/
