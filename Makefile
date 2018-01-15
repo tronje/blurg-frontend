@@ -7,7 +7,8 @@ TARGET_DIR = bin
 TARGET = $(TARGET_DIR)/main.js
 
 # constants
-## compiler; gcc is pretty good, right?
+
+## compiler
 CC = elm-make
 
 ## compilation flags that should always be used
